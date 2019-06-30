@@ -15,6 +15,3 @@ It is a web-based application to show a different cuisine restaurant with locati
 - [serviceWorker](https://developers.google.com/web/fundamentals/primers/service-workers/)
 - [Starter code](https://github.com/udacity/mws-restaurant-stage-1)
 
-
-### Note about ES6
-Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future-proofing JavaScript code.

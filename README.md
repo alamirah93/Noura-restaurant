@@ -3,10 +3,6 @@
 
 It is a web-based application to show a different cuisine restaurant with location and reviews about it.
 
-### Specification
-
-  The code has a lot of issues. It’s barely usable on a desktop browser, much less a mobile device. It also doesn’t include any standard accessibility features, and it doesn’t work offline at all. Your job is to update the code to resolve these issues while still maintaining the included functionality.
-
 ### Installation
 
 1. Clone/download the folder from https://github.com/alamirah93/Noura-restaurant . In this folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer.
@@ -17,6 +13,7 @@ It is a web-based application to show a different cuisine restaurant with locati
 ### Refrences
 - [Mapbox](https://www.mapbox.com/).
 - [serviceWorker](https://developers.google.com/web/fundamentals/primers/service-workers/)
+- [Starter code](https://github.com/udacity/mws-restaurant-stage-1)
 
 
 ### Note about ES6
